@@ -1,0 +1,1 @@
+# generation-solver-labyrinth
