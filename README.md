@@ -30,7 +30,7 @@
   <br>
   
   <div align="center">
-    <img height="200" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Tremaux_Maze_Solving_Algorithm.gif/220px-Tremaux_Maze_Solving_Algorithm.gif"  />
+    <img height="150" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Tremaux_Maze_Solving_Algorithm.gif/220px-Tremaux_Maze_Solving_Algorithm.gif"  />
   </div>
 
 ###
