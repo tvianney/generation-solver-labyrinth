@@ -20,7 +20,10 @@
   A perfect maze is a maze that has only one possible path. <br>
   On the countrary, an imperfect maze is a one that has multiple paths.
   <br>
-  For this we used the  <br>
+  For this we used the recursive division algorithm.<br>
+  <div align="center">
+    <img height="200" src="https://www.boristhebrave.com/wp-content/uploads/2021/08/subdivision_maze.gif"  />
+  </div>
   <br>
   For the solving part we used Trémaux's algorithm. <br>
   It finds always find a path, except when their are none but will not find the shortest one. <br>
