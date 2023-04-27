@@ -22,7 +22,7 @@
   <br>
   For this we used the recursive division algorithm.<br>
   <div align="center">
-    <img height="200" src="https://www.boristhebrave.com/wp-content/uploads/2021/08/subdivision_maze.gif"  />
+    <img height="150" src="https://www.boristhebrave.com/wp-content/uploads/2021/08/subdivision_maze.gif"  />
   </div>
   <br>
   For the solving part we used Trémaux's algorithm. <br>
@@ -30,7 +30,7 @@
   <br>
   
   <div align="center">
-    <img height="150" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Tremaux_Maze_Solving_Algorithm.gif/220px-Tremaux_Maze_Solving_Algorithm.gif"  />
+    <img height="200" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Tremaux_Maze_Solving_Algorithm.gif/220px-Tremaux_Maze_Solving_Algorithm.gif"  />
   </div>
 
 ###
