@@ -31,7 +31,7 @@
   </div>
 
 ###
-  <br>
+
   <br>
 <h3 align="center">Usage </h3>
 <br>
@@ -54,6 +54,16 @@
   solver/./solver <path to maze> # solve the maze
  
   ```
+  </div>
   
+###
+  
+###
+
+  <br>
+  <h3 align="center">Authors </h3>
+  <div align="center">
+    <a href="https://github.com/tvianney">@vianney</a> <a href="https://github.com/BebeSniffeur">@Léo</a> <br>
+    <br>
   
   
