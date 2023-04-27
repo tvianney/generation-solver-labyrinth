@@ -27,7 +27,33 @@
   <br>
   
   <div align="center">
-  <img height="200" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Tremaux_Maze_Solving_Algorithm.gif/220px-Tremaux_Maze_Solving_Algorithm.gif"  />
-</div>
+    <img height="200" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Tremaux_Maze_Solving_Algorithm.gif/220px-Tremaux_Maze_Solving_Algorithm.gif"  />
+  </div>
 
 ###
+  <br>
+  <br>
+<h3 align="center">Usage </h3>
+<br>
+
+<div align="center">
+
+  (Requires GCC to work)
+
+  Start with : `make` to build project <br>
+  you will now have a `generator` binary in dir generator <br>
+  and a 'solver' binary in dir solver <br>
+  <br>
+  <br>
+  
+  
+  ```bash
+  generator/./generator X Y > <file name> # Provide a number for X and Y
+  # add perfect to the command for a perfect maze or it will be automatically an imperfect one
+  
+  solver/./solver <path to maze> # solve the maze
+ 
+  ```
+  
+  
+  
